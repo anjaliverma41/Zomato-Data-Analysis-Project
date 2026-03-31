@@ -3,27 +3,27 @@ This project analyzes Zomato restaurant data to understand customer behavior, re
 
 **Key Business Questions Solved -**
 
-Restaurant Preference -
+**Restaurant Preference -**
 
 Identified the type of restaurant from which the majority of customers order food.
 
-Votes Analysis-
+**Votes Analysis-**
 
 Analyzed how many votes each type of restaurant has received.
 
-Ratings Distribution -
+**Ratings Distribution -**
 
 Determined the ratings most restaurants receive.
 
-Couple Spending Behavior-
+**Couple Spending Behavior-**
 
 Found that couples prefer ordering online and calculated their average spending per order.
 
-Online vs Offline Ratings-
+**Online vs Offline Ratings-**
 
 Compared ratings between online and offline orders to identify which performs better.
 
-Offline Order Insights-
+**Offline Order Insights-**
 
 Identified restaurant types receiving more offline orders to help Zomato target them with offers.
 
